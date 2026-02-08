@@ -272,7 +272,7 @@ nav {
 /* Orbe de verre décoratif */
 .glass-orb {
     width: 150px; height: 150px;
-    background-image: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.01)), url('./static/logo.jpeg');
+    background-image: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.01)), url('static/logo.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
